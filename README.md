@@ -10,9 +10,7 @@ English :
 Türkçe 
   bu projede asp net Angular ile kullandım  (NetCore_CarRentalProject_frontend repository mevcut) genel olarak solid kurallarına uymaya çalıştım elbette eksikler ve daha iyi olması gereken yerler var. Autofac ve Fluent validation kullanıldı bu proje Yön odaklı programlama (AOP), Cross-cutting concern ve daha fazlasını içirir
 
-
-/******************************************************** MY DATABASE ***************************************************************************\\\\
-
+********************** MY DATABASE *********************************
 
 ![database](https://user-images.githubusercontent.com/77804034/114306843-e54ab980-9ae5-11eb-8125-b761586684d9.png)
 
