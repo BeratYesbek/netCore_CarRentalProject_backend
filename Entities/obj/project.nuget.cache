@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a6d7F0hVK11MH8JtBdk2+zNRnZniUJX3rtyvEpt0xvn/9HdzQWEvTq+oh2Py34aqCgaNLz1fbhbfj1PSdHo8Nw==",
+  "dgSpecHash": "7NFZRYubdKd01Sx7wYeB+zG5veMG7kiyZbkXaEHof5pfqTUXJGbc0m8JvtjOy3xr0A60ve6P6J/eSAFIRcwolA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berat\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\berat\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

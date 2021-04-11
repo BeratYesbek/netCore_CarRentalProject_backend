@@ -6596,11 +6596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\berat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6621,14 +6621,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\Business\\Business.csproj"
+            "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\Business\\Business.csproj"
             },
-            "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\Entities\\Entities.csproj"
+            "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\Entities\\Entities.csproj"
             }
           }
         }

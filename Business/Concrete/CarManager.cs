@@ -93,7 +93,7 @@ namespace Business.Concrete
         }
 
         //[LogAspect(typeof(FileLogger))]
-    //    [SecuredOperation("car.update,admin")]
+         [SecuredOperation("car.update,admin")]
         [ValidationAspect(typeof(CarValidator))]
         [CacheRemoveAspect("ICarService.Get")]
         public IResult Update(Car entity)
@@ -129,7 +129,7 @@ namespace Business.Concrete
             return _carDal.GetAll(c => c.ColorId == colorId);
         }
 
-       // [CacheAspect]
+        [CacheAspect]
         [PerformanceAspect(5)]
 
         public IDataResult<List<CarDetailsDto>> GetCarDetail(int carId)
@@ -141,7 +141,7 @@ namespace Business.Concrete
             return new SuccessDataResult<List<CarDetailsDto>>(_carDal.GetCarDetails(cardetail => cardetail.CarId == carId));
         }
       
-      //  [CacheAspect]
+        [CacheAspect]
         [PerformanceAspect(5)]
         public IDataResult<List<CarDetailsDto>> GetCarDetails()
         {

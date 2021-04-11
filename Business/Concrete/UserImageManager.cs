@@ -75,7 +75,7 @@ namespace Business.Concrete
             userImage.ImagePath = updatedFile.Message;
             _userImageDal.Update(userImage);
 
-            return new SuccessResult(".ımage updated");
+            return new SuccessResult("Image updated");
         }
 
         [CacheAspect]

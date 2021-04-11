@@ -6937,11 +6937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\berat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berat\\source\\repos\\NetCoreBacked_library_project-master\\Core\\obj\\",
+      "outputPath": "C:\\Users\\berat\\source\\repos\\NetCore_CarRentalProject_backend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

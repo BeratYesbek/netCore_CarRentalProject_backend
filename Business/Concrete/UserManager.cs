@@ -55,7 +55,7 @@ namespace Business.Concrete
             return _userDal.GetAll(filter);
         }
 
-       // [CacheAspect]
+        [CacheAspect]
         [PerformanceAspect(5)]
         public IDataResult<List<UserDetailsDto>> GetById(int userId)
         {
