@@ -4,10 +4,12 @@ IN THIS PROJECT I USED THESE
 
 AUTOFAC , FLUENT VALIDATION , ENTITY FRAMEWORK, API, ASPECT ORIENTED PROGRAMING (AOP) , CROSS-CUTTING CONCERN , SECURTY OPERATIONS and more thing
 
-English : 
+English:
+
   this project used with Angular (NetCore_CarRentalProject_frontend check my repository) I have tried to comply solid princible in this project. I used Sql with Entity Framework. Also Autofac and Fluent validation was used. this project includes Aspect oriented programming, Cross-Cutting Concern and more thing.
 
-Türkçe 
+Türkçe:
+
   bu projede asp net Angular ile kullandım  (NetCore_CarRentalProject_frontend repository mevcut) genel olarak solid kurallarına uymaya çalıştım elbette eksikler ve daha iyi olması gereken yerler var. Autofac ve Fluent validation kullanıldı bu proje Yön odaklı programlama (AOP), Cross-cutting concern ve daha fazlasını içirir
 
 ********************** MY DATABASE *********************************
