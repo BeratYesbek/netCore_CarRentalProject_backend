@@ -28,7 +28,7 @@ Users Table
 Operation Claims table for security
 
 
-![userOperationClaims](https://user-images.githubusercontent.com/77804034/114306894-10cda400-9ae6-11eb-89fd-0ddf301622a1.png)
+![opertionclasims](https://user-images.githubusercontent.com/77804034/114306873-f98eb680-9ae5-11eb-98b2-de2a91ab1ec8.png)
 
 
 
@@ -36,7 +36,8 @@ User Operation Claims,  in this table I add authorization to users
 
 
 
-![opertionclasims](https://user-images.githubusercontent.com/77804034/114306873-f98eb680-9ae5-11eb-98b2-de2a91ab1ec8.png)
+![userOperationClaims](https://user-images.githubusercontent.com/77804034/114306894-10cda400-9ae6-11eb-89fd-0ddf301622a1.png)
+
 
 
 
