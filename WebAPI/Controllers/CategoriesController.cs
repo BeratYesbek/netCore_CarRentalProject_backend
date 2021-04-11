@@ -1,0 +1,78 @@
+﻿using Business.Abstract;
+using Entities;
+using Entities.Concrete;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace WebAPI.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class CategoriesController : Controller
+    {
+        private ICategoryService _categoryService;
+
+        public CategoriesController(ICategoryService categoryService)
+        {
+            this._categoryService = categoryService;
+        }
+
+        [HttpPost("add")]
+        public IActionResult Add(Category category)
+        {
+           var result = _categoryService.Add(category);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+        [HttpPost("update")]
+        public IActionResult Update(Category category)
+        {
+            var result = _categoryService.Update(category);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+
+        [HttpPost("delete")]
+        public IActionResult Delete(Category category)
+        {
+            var result = _categoryService.Delete(category);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+        [HttpGet("getall")]
+        public IActionResult GetAll()
+        {
+            var result = _categoryService.GetAll();
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+
+            return BadRequest(result);
+        }
+        [HttpGet("getbyid")]
+        public IActionResult getById(int id)
+        {
+            var result = _categoryService.GetById(id);
+            if(result != null)
+            {
+                return Ok(result);
+            }
+
+            return BadRequest(null);
+        }
+       
+    }
+}

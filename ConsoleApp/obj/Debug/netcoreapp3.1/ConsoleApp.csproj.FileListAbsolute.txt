@@ -1,0 +1,4 @@
+C:\Users\berat\source\repos\NetCoreBacked_library_project-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\berat\source\repos\NetCoreBacked_library_project-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\berat\source\repos\NetCoreBacked_library_project-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\berat\source\repos\NetCoreBacked_library_project-master\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
