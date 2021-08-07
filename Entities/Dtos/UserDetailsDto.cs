@@ -9,7 +9,6 @@ namespace Entities.Dtos
     {
         public int Id { get; set; }
 
-        // in here is more good way but unfortunately I don't know sql how  get single data
         public List<int> CustomerId { get; set; }
         public List<int> FindeksScore { get; set; }
         public List<int> AdminId { get; set; }
